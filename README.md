@@ -1,6 +1,6 @@
 <h1 align="center">LHD LAUNCHER</h1>
 
-<img src="https://github.com/AngelAuraMC/Amethyst-Android/blob/v3_openjdk/app_pojavlauncher/src/main/assets/amethyst.png" align="left" width="130" height="130" alt="Amethyst logo">
+<img src="https://github.com/Mahdin-Shades-ORG/LHD-LAUNCHER-V.2/blob/v3_openjdk/app_pojavlauncher/src/main/assets/Pojavlauncher.png" align="left" width="130" height="130" alt="LHD logo">
 
 [![Android CI](https://github.com/AngelAuraMC/Amethyst-Android/workflows/Android%20CI/badge.svg)](https://github.com/AngelAuraMC/Amethyst-Android/actions)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AngelAuraMC/Amethyst-Android)](https://github.com/AngelAuraMC/Amethyst-Android/actions)
